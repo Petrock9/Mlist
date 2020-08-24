@@ -24,7 +24,7 @@ try:
 except:
     time.sleep(0.5)
 
-item_number = str(32982727203)
+item_number = str(34460057180)
 options = Options()
 options.add_argument("user-data-dir=C:\\Users\\JC\\AppData\\Local\\Google\\Chrome\\User Data\\Profiwle 2")
 driver = webdriver.Chrome(executable_path="D:\\chromedriver\\chromedriver.exe", chrome_options=options)
