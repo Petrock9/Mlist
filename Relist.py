@@ -729,5 +729,5 @@ for item in items:
 
     except:
         print("--------------------------------------")
-        time.sleep(0.5)
+        time.sleep(0.4)
         driver.quit()
